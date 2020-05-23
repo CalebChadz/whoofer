@@ -1,0 +1,17 @@
+.title {
+    text-align: center;
+}
+
+.woof-form, .loading {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.loading {
+    text-align: center;
+}
+
+.woofs {
+    width: 80%;
+    margin: 0 auto;
+}
